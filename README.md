@@ -8,10 +8,11 @@ VBA Challenge on refactored stock analysis code
 ## Results
 
 
-![VBA_Challenge_2017]
+![alt text](https://github.com/JoshTrewhella/stocks-analysis/blob/main/Resources/Refactored_2017.PNG)
 
 
-![VBA_Challenge_2018]
+
+![alt text](https://github.com/JoshTrewhella/stocks-analysis/blob/main/Resources/Refactored_2018.PNG)
 
 ## Summary
 
